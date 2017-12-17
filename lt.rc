@@ -1,0 +1,122 @@
+
+lt*labelFontList: -adobe-helvetica-medium-o-*-*-14-*-*-*-*-*-*-*
+lt*buttonFontList: -adobe-helvetica-bold-r-*-*-16-*-*-*-*-*-*-*
+lt*textFontList: -adobe-new century schoolbook-medium-r-*-*-16-*-*-*-*-*-*-*
+lt*mainmenu*fontList: -adobe-times-*-r-*-*-20-*-*-*-*-*-*-*
+
+lt*mainlabel.labelPixmap: bigi.xpm
+
+lt*mainmenu*test.labelString:		Test
+lt*mainmenu*practice.labelString:	Practice
+lt*mainmenu*quit.labelString:		Quit
+
+lt*testmenu*dotest.labelString:		Do test
+lt*testmenu*edittest.labelString:	Edit test
+
+lt*practicemenu*unjumble.labelString:		Unjumble
+lt*practicemenu*simpleselect.labelString:	Simple select
+lt*practicemenu*dialoghalves.labelString:	Dialog halves
+lt*practicemenu*wordguess.labelString:		Word guess
+lt*practicemenu*nougthsandcrosses.labelString:	Nougths and crosses
+lt*practicemenu*storyboard.labelString:		Storyboard
+lt*practicemenu*memory.labelString:		Memory
+lt*practicemenu*guesstitle.labelString:		Guess title
+lt*practicemenu*setlevel.labelString:		Set level
+
+lt*quitmenu*quit.labelString:		Quit
+lt*quitmenu*about.labelString:		About
+
+lt*aboutdlgbox.messageString: Language Tutor created by Bigi-boys.
+lt*helpdlgbox.messageString: This menu item is being developed.
+lt*testdlgbox.messageString: This menu item is being developed.
+
+lt*leveldlgbox*toggle_0.labelString: Beginner
+lt*leveldlgbox*toggle_1.labelString: Medium
+lt*leveldlgbox*toggle_2.labelString: Advanced
+lt*leveldlgbox.okLabelString: Ok
+lt*leveldlgbox.cancelLabelString: Cancel
+
+lt*valuationdlgbox.okLabelString: Ok
+lt*valuationdlgbox*valuelabel.labelString: Received points:
+lt*valuationdlgbox*maxvaluelabel.labelString: Maximum points:
+
+lt*noexercise_dlgbox.messageString: There are not exercises in this practice.
+
+lt*exercisedlgbox.okLabelString: Next exercise
+lt*exercisedlgbox.cancelLabelString: End practice
+
+lt*form*helpbutton.labelString: Help
+lt*form*solvebutton.labelString: Solve
+lt*form*removebutton.labelString: Remove
+lt*form*applybutton.labelString: Apply
+
+lt*unjumble.label1.labelString: The words of the sentence:
+lt*unjumble.label2.labelString: The sentence:
+lt*unjumblehelpdlgbox.okLabelString: Ok
+lt*unjumblehelpdlgbox*wordlabel.labelString: One of the words:
+lt*unjumblehelpdlgbox*positionlabel.labelString: Position in the sentence:
+
+lt*simpleselect.label1.labelString: This is the question:
+lt*simpleselect.label2.labelString: These are the possible answers:
+lt*simpleselect*helpmsgbox.messageString: No help available!
+
+lt*wordguess.label1.labelString: Pieces of information:
+lt*wordguess.label2.labelString:  What is the word?
+lt*wordguess*helpmsgbox.messageString: No more help available!
+
+lt*guesstitle.label1.labelString: This is  the story:
+lt*guesstitle.label2.labelString:  What is the title?
+lt*guesstitle*helpmsgbox.messageString: No more help available!
+
+lt*dialoghalves.label1.labelString: This is  the dialogue:
+lt*dialoghalves.label2.labelString:  What could I apply?
+lt*dialoghalves*helpmsgbox.messageString: No more help available!
+lt*dialoghalves*applymsgbox.messageString: Please write something into the editor!
+lt*dialoghalves*nomoreapplymsgbox.messageString: No more word in the story!
+
+lt*storyboard.label1.labelString: This is  the story:
+lt*storyboard.label2.labelString:  What could I apply?
+lt*storyboard*helpmsgbox.messageString: No more help available!
+lt*storyboard*applymsgbox.messageString: Please write something into the editor!
+lt*storyboard*nomoreapplymsgbox.messageString: No more word in the story!
+
+lt*memory*cardpanel*labelPixmap: k.xbm
+lt*memory*manyclick*messageString: Click New Pair!
+lt*memory*sameclick*messageString: Can't turn it over again!
+lt*memory*matches*messageString: Congratulations, they are matching!
+lt*memory*notmatches*messageString: Unfortunately, they are not matching.
+lt*memory*textlabel0.labelString: First card:    
+lt*memory*textlabel1.labelString: Second card: 
+lt*memory*conlabel.labelString: Congratulations!
+
+lt*nac*questionlabel.labelString: This is the question:
+lt*nac*answerlabel.labelString: These are the possible answers:
+lt*nac*okbutton.labelString: OK
+lt*naccrosswinner.messageString: The player with crosses is the winner. Congratulations!
+lt*nacnougthwinner.messageString: The player with nougths is the winner. Congratulations!
+
+lt*testselectiondlgbox.okLabelString: Select test
+lt*testselectiondlgbox.cancelLabelString: Cancel
+lt*testselectiondlgbox.pattern: *.test
+
+lt*testnofiledlgbox.messageString: The file given does not exist.
+lt*testbadfiledlgbox.messageString: The file given is not a test file.
+
+lt*dotestemptyfiledlgbox.messageString: This file does not consist of any exercises.
+
+lt*dotestdlgbox.okLabelString: Next test exercise
+lt*dotestdlgbox.cancelLabelString: Cancel
+
+lt*testeditbadfiledlgbox.messageLabel: The file given is not a test file.
+
+lt*testeditdlgbox.okLabelString: Store exercise
+lt*testeditdlgbox.cancelLabelString: Cancel
+
+lt*testeditdlgbox*editlabel.labelString: The exercise:
+lt*testeditdlgbox*typelabel.labelString: The type of the exercise:
+
+lt*testeditdlgbox*unjumble.labelString: Unjumble
+lt*testeditdlgbox*simpleselect.labelString: Simple select
+lt*testeditdlgbox*dialoghalves.labelString: Dialog halves
+lt*testeditdlgbox*wordguess.labelString: Word guess
+

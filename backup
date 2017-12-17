@@ -1,0 +1,3 @@
+tar cvf ../backup/$1.tar -C ./ *.c -C ./ *.h -C ./ *.rc -C ./ Makefile\
+	-C ./ *.exer.* -C ./ *.test -C ./ *.xbm -C ./ backup
+compress ../backup/$1.tar
